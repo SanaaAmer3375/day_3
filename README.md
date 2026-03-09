@@ -1,6 +1,8 @@
 # day_3
 
 A new Flutter project.
+<img width="220" src="https://github.com/user-attachments/assets/1f982f76-ed1a-4cd5-89d5-bfcd8595d98a" />
+
 
 ## Getting Started
 
